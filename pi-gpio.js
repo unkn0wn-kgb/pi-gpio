@@ -23,7 +23,8 @@ var pinMapping = {
 	"22": 25,
 	"23": 11,
 	"24": 8,
-	"26": 7
+	"26": 7,
+	"27": 27
 };
 
 function isNumber(number) {
